@@ -32,5 +32,6 @@ public class Application {
         System.out.println(user2.getInfo());
 
 
+
     }
 }

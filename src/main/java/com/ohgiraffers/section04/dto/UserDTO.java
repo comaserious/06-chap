@@ -10,6 +10,8 @@ public class UserDTO {
     private String name;
     private java.util.Date enrollDate;
 
+
+
     /*필기. 기본생성자 명시적으로 작성*/
     public UserDTO () {}
 
@@ -65,4 +67,5 @@ public class UserDTO {
 
         return "UserDTO [ id : "+this.id+" pwd : "+this.pwd+" name : "+this.name+" enrolldate : "+this.enrollDate+"]";
     }
+
 }

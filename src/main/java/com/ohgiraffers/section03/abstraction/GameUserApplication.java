@@ -2,7 +2,7 @@ package com.ohgiraffers.section03.abstraction;
 
 import java.util.Scanner;
 
-public class UserApplication {
+public class GameUserApplication {
 
     public static void main(String[] args) {
 

@@ -55,7 +55,7 @@ public class FinalFieldTest {
 
     //생성자로 초기화는 불가능하다
 //    public FinalFieldTest(double staticDouble){
-//        this.STATIC_DOUBLE=staticDouble;
+//        FinalFieldTest.STATIC_DOUBLE=staticDouble;
 //    }
 
     /*필기. 하지만 초기화블럭으로는 초기화 할수 있다*/

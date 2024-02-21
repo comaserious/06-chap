@@ -60,9 +60,5 @@ public class Application {
         para1.testVariableLengthArrayParameter("아무개", new String[] {"축구", "볼링","배드민턴","잡기"}); //배열도 입력 가능
 
 
-
-
-
-
     }
 }
